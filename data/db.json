@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "My First Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Made a video about Tesla Q1 results"
+    },
+    {
+      "id": "21",
+      "title": "Hi Naana",
+      "datetime": "February 19, 2024 12:57:07 PM",
+      "body": "The best movie i ever seen"
+    },
+    {
+      "id": "211",
+      "title": "My 2nd post",
+      "datetime": "February 19, 2024 12:59:47 PM",
+      "body": "Mind my business"
+    },
+    {
+      "id": "2111",
+      "title": "Custom Hooks",
+      "datetime": "February 27, 2024 10:47:01 AM",
+      "body": "In React we can create custom hooks to make out website more efficient\n"
+    },
+    {
+      "id": "21111",
+      "title": "Completing React ",
+      "datetime": "February 27, 2024 10:48:21 AM",
+      "body": "We almost completes the React\n"
+    },
+    {
+      "id": "211111",
+      "title": "Hello",
+      "datetime": "February 29, 2024 3:03:01 PM",
+      "body": "This is new Post"
+    }
+  ]
+}
